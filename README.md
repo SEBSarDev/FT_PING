@@ -1,5 +1,11 @@
-# ft_ping
+# FT_PING
 Recode ping in C.
+
+To test this program, please use it in debian machine and run :
+```
+make
+./ft_ping <IPv4 addr>
+```
 
 man:
 - https://www.man-linux-magique.net/man8/ping.html
