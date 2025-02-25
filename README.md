@@ -1,6 +1,7 @@
 # FT_PING
 Recode ping in C.
 
+This code has to be test in a debian (>= 7) environment. 
 To test this program, please use it in debian machine and run :
 ```
 make
